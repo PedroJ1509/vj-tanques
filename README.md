@@ -28,5 +28,4 @@ Pedro José De la Rosa
 
 ---
 
-¡Disfruta del juego y que gane el mejor tanque!
 "# vj-tanques" 
